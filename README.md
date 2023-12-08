@@ -1,6 +1,6 @@
 # **A Novel Approach to Threshold Images using Unsharp Measurements**
 
-### January 23rd, 2021
+### December 8th, 2023
 
 **Main author:** [Ayan Barui](https://www.linkedin.com/in/ayan-barui-4540b7247/)
 
